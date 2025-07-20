@@ -29,8 +29,8 @@
 
 ## Diagram ที่ใช้ในการออกแบบ
 
-- Use Case Diagram (./docs/usecase/usecase-coffee.png)
-- Sequence Diagram (./docs/sequence/order-flow.png)
+- Use Case Diagram ![Use Case Diagram](./docs/usecase/usecase-coffee.png)
+- Sequence Diagram ![Sequence Diagram](./docs/sequence/order-flow.png)
 
 ## ผู้พัฒนา
 
